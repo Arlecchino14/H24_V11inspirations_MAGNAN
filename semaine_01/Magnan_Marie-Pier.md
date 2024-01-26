@@ -8,3 +8,6 @@ J'ai tenté d'autre étude, mais je me sentais inconfortable et j'ai rapidement 
 **<h2>Autres intérêts ou aspects de personnalité</h2>**
 Je suis une personne de très calme, mais avec un *mood* très changeant. C'est peut-être pour cela que mon style vestimentaire varie énormément. 
 Sinon, je peux dire que j'aime beaucoup l'art. J'ai touché à beaucoup de médiums, mais mes préférés sont la peinture acrylique et à l'huile.
+![Peinture acrylique](https://raw.githubusercontent.com/Arlecchino14/H24_V11inspirations_MAGNAN/main/semaine_01/IMG_20220207_132700.jpg)
+
+![Peinture à l'huile](https://raw.githubusercontent.com/Arlecchino14/H24_V11inspirations_MAGNAN/main/semaine_01/IMG_20230508_134831.jpg)
