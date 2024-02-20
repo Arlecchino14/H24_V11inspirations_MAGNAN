@@ -14,7 +14,7 @@
 |L'exposition + installation | Support visuel | 
 | :---------------- | :------: |
 |  L'exposition se sépare deux salles pour exposer les deux oeuvres présentent. La premire est *Cathartic Illusion (Amplified)* de Jeremy Shaw réalisé en 2023<br> ![](.//media/PSI_cartel_oeuvre1.png) | ![](.//media/PSI_salle_explication.png)   |
-| Cette photo présente l'installation de Jeremy Shaw *Phase Shifting Index* réalisé en 2020 <br> ![](.//media/PSI_cartel_oeuvre2.png)    |  ![](.//media/PSI_installation_mac.jpg) <br> Photo prise sur le site du MAC. Vue de l’installation au Centre Pompidou, Paris.<br> ![](.//media/PSI_installation_fonderie.png) <br> Photo prise sur le site du MAC. Vue de l’installation à la Fonderie Darling, Montréal.|
+| Cette photo présente l'installation de Jeremy Shaw *Phase Shifting Index* réalisé en 2020 <br> ![](.//media/PSI_cartel_oeuvre2.png)    |  ![](.//media/PSI_salle_installation_mac.jpg) <br> Photo prise sur le site du MAC. Vue de l’installation au Centre Pompidou, Paris.<br> ![](.//media/PSI_salle_installation_fonderie.png) <br> Photo prise sur le site du MAC. Vue de l’installation à la Fonderie Darling, Montréal.|
 |  **Explication de chaque partie de l'oeuvre**  |   **Vidéo**   |
 | Première partie de l'installation. La lumière ne change pas, le contenu des vidéos ne se ressemblent pas et une voix explique le contenu des vidéos.|  [Première partie de l'installation](https://youtu.be/4jvv96aSgrk)  |
 |  Seconde partie de l'installation. Il y a un jeu de lumière (flash), les gestes présents dans les vidéos sont syncrhonisés et le son devent le même |   [Seconde partie de l'installation/ Synchronisation des écrans](https://youtu.be/5gbJk9hSWLA)  |
