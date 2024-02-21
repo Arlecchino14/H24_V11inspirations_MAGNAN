@@ -1,1 +1,1 @@
-Présentation du travail Canevas Cosmique
+Présentation du projet Canevas Cosmique
