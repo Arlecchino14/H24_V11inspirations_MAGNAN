@@ -3,7 +3,7 @@
 
 ![](.//media/PSI_affiche.jpg)
 
-|Présentation de l'exposition  |  | 
+| Présentation de l'exposition | ![](.//media/PSI_cartel_exposition.png) |
 | :---------------- | :------: |
 | **Phase Shifting Index** est une exposition de l'artiste Jeremy Shaw. Il s'agit d'une exposition temporaire présentée entre le 12 décembre 2023 et le 25 février 2024 par le Musée d'art contemporain de Montréal (MAC) à la Fonderie Darling. C'est la troisième exposition de l'oeuvre, les premières étant au Centre Pompidou à Paris et au Frankfurter Kunstverein à Berlin. La visite à eu lieu le 31 janvier 2024.       |   ![](.//media/PSI_fonderie-darling.png)  |
 
