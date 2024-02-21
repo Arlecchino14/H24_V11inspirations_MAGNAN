@@ -24,22 +24,26 @@
 
 
 ### Composantes et éléments nécessaires
-La fonderie Darling a dû évaluer l’espace qu’elle possédait afin d’adapter l’installation à ses locaux. De chaque côté de la porte qui mène à la pièce on retrouve deux rangées d’estrades construites exprès pour l’installation. Elles sont recouvertes de tapis gris tout comme le sol. Les murs ont été peint de la même couleur. Les estrades sont plutôt imposantes car en-dessous elles cachent les composantes électriques de l’œuvre, elles agissent comme régis. On retrouve aussi quelques bancs placés de sortes qu’on puisse concentrer son attention sur un nombre réduit d’écrans. <br>
-La fonderie Darling a dû réfléchir à l’emplacement des écrans, des haut-parleurs, de la lumière et construire les structures. <br>
-Les écrans se situant dans le fond de la salle peuvent être regarder que d’un seul côté contrairement à ceux de devant. Les écrans sont suspendus. <br>
-On retrouve dans les coins de la salle et sur la structure au plafond des haut-parleurs. Leurs emplacements ont dû être choisis de sorte à bien se mélanger ensemble, mais surtout à bien se distinguer lorsqu’on en est proche. Chaque écran possèdes sont propres sons et l’analyse documentaire se concentre sur un écran à la fois et se déplace tout au long du visionnement. <br>
+La fonderie Darling a dû évaluer l’espace qu’elle possédait afin d’adapter l’installation à ses locaux. De chaque côté de la porte qui mène à la pièce on retrouve deux rangées d’estrades construites exprès pour l’installation. Elles sont recouvertes de tapis gris tout comme le sol. Les murs ont été peint de la même couleur. Les estrades sont plutôt imposantes car en-dessous elles cachent les composantes électriques de l’œuvre, elles agissent comme régis. On retrouve aussi quelques bancs placés de sortes qu’on puisse concentrer son attention sur un nombre réduit d’écrans. 
+La fonderie Darling a dû réfléchir à l’emplacement des écrans (écrans et projecteurs), des haut-parleurs, de la lumière et construire les structures. 
+Les écrans se situant dans le fond de la salle peuvent être regarder que d’un seul côté contrairement à ceux de devant. Les écrans et les projecteurs sont suspendus. 
+On retrouve dans les coins de la salle et sur la structure au plafond des haut-parleurs. Leurs emplacements ont dû être choisis de sorte à bien se mélanger ensemble, mais surtout à bien se distinguer lorsqu’on en est proche. Chaque écran possèdes sont propres sons et l’analyse documentaire se concentre sur un écran à la fois et se déplace tout au long du visionnement.
 La lumière quant à elle est aussi installée sur la structure au plafond. Elle a dû être adaptée aux emplacements des éléments dans la pièce. 
 
-
-        
-
 ### Expérience vécue
+Une fois arrivée dans la pièce, je me suis installée dans les estrades de manière aléatoire. Le recouvrement en tapis des estrades donnait un aspect sensoriel à l’installation. Une fois assise, il était complexe de se lever et j’avais envie de continuer à regarder les quelques écrans que je pouvais voir. J’était un peu en pilote automatique et je trouve que mon ressentie allait bien avec la finalité de l’œuvre. <br>
+Je me suis déplacée un peu pour essayer de voir le contenu de chaque écran et j’ai aussi lu chacune de leurs descriptions. Cependant, je devenais rapidement obnubilée par les vidéos et je retournais en mode pilote automatique.
 
 ### Éléments retenus
-#### Éléments à retenir
+#### Éléments aimés
+Ce que j'ai aimé de l'installation est son côté contemplatif. Si on le désirait, on avait la possibilité de s'installer confortablement sur les estrades et d'avoir une vue sur les sept écrans. Cela permettait d'avoir une vision sur tous les groupes et de les voir de plus en plus exécuter les mêmes mouvements. Je trouvais que de ce point de vue, on était plus immergé dans ce que vivait tous les groupes, en particulier lorsque les vidéos commencent à se synchroniser. J’ai beaucoup aimé qu’on puisse aussi visionner chaque vidéo plus attentivement en avoir une voix qui nous guide et gère notre temps devant chacun d’elles. <br>
+D’ailleurs, le son était un élément très bien réussi. Le mélange de tous les haut-parleurs ne créait pas de brouhaha et lorsqu’on se rapprochait des écrans on pouvait très bien entendre le son provenant de la vidéo. <br>
+Bien évidemment, j’ai bien aimé le jeu de lumière qui allait en communion avec la vidéo. Cela ajoute à l’immersion. <br>
+Le dernier élément que j’ai apprécie est le tapis. Cela peut sembler idiot, mais sa présence me rendait calme, j’avais envie de rester et de visionner l’œuvre. C’est un ajout tout simple, mais très efficace.
 
-#### Éléments à ne pas retenir ou à modifier
 
+#### Éléments non-aimés
+Ce que j'ai moins apprécié est la difficulté à saisir les informations sur chaque groupe. Pour comprend ce que la rétrospective disait il fallait suivre la voix qui décrivait chaque écran l'un après l'autre. Personnellement, j'avais de la difficulté à la suivre et j'étais heureuse d'avoir un petit fascicule pour comprendre ce que je voyais. Sinon, il n’y a rien d’autre qui m’a dérangé.
 
 
 
