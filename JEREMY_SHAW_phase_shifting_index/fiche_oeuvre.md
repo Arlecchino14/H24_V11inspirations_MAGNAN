@@ -24,6 +24,8 @@
 
 
 ### Composantes et éléments nécessaires
+#Croquis de la pièce
+![](.//media/PSI_croquis.jpeg)
 La fonderie Darling a dû évaluer l’espace qu’elle possédait afin d’adapter l’installation à ses locaux. De chaque côté de la porte qui mène à la pièce on retrouve deux rangées d’estrades construites exprès pour l’installation. Elles sont recouvertes de tapis gris tout comme le sol. Les murs ont été peint de la même couleur. Les estrades sont plutôt imposantes car en-dessous elles cachent les composantes électriques de l’œuvre, elles agissent comme régis. On retrouve aussi quelques bancs placés de sortes qu’on puisse concentrer son attention sur un nombre réduit d’écrans. 
 La fonderie Darling a dû réfléchir à l’emplacement des écrans (écrans et projecteurs), des haut-parleurs, de la lumière et construire les structures. 
 Les écrans se situant dans le fond de la salle peuvent être regarder que d’un seul côté contrairement à ceux de devant. Les écrans et les projecteurs sont suspendus. 
