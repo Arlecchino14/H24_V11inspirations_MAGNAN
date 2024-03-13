@@ -1,4 +1,4 @@
 Présentation du projet Effet-Papillon
 >Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en >soulignant la notion complexe de l'effet papillon. La maturation du fruit est une phase clé de l'installation, où les visiteurs découvrent les conséquences finales de leurs actions. La pomme résultante devient le point focal, représentant les retombées de choix apparemment minuscules sur un système complexe.
-
-Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
+Créateurs/Créatrices
+<h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html</h6>
