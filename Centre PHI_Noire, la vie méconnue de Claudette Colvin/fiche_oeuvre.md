@@ -1,12 +1,12 @@
 # TP3 banque d’inspirations d’œuvres et de dispositifs multimédias en exposition
 ## Noire
 
-|Description | Support visuel | 
+|Noire, la vie méconnue de Claudette Colvin | Support visuel | 
 | :---------------- | :------: |
-| *Noire* est une exposition temporaire présentée au Centre PHI entre le 7 février 2024 et le 28 avril 2024. Elle est aussi présentée dans plusieurs autres pays. L'installation a été réalisée par Stéphane Foenkinos et Pierre-Alain Giraud. Elle a été produite par Novaya (France) Centre Pompidou (France) et Flash Forward Entertainment (Taïwan) en partenariat avec le Centre Pompidou (France). *Noire* reprend le récit du livre *Noire, la vie méconnue de Claudette Colvin d'après Tania De Montagne* d'Émilie Plateau (2019).  | Inséré photo |
+| *Noire* est une exposition temporaire présentée au Centre PHI entre le 7 février 2024 et le 28 avril 2024. Elle est aussi présentée dans plusieurs autres pays. L'installation a été réalisée par Stéphane Foenkinos et Pierre-Alain Giraud. Elle a été produite par Novaya (France) Centre Pompidou (France) et Flash Forward Entertainment (Taïwan) en partenariat avec le Centre Pompidou (France). *Noire* reprend le récit du livre *Noire, la vie méconnue de Claudette Colvin d'après Tania De Montagne* d'Émilie Plateau (2019).  | ![](.//media/NOIRE_scene_bus_PHI.jpg) <br> Provient du site du [Centre PHI](https://phi.ca/fr/evenements/noire-claudette-colvin/)|
 
 
-
+visite 1er mars
 
 ### Description de l'oeuvre
 |Description | Support visuel | 
@@ -17,7 +17,8 @@
 ### Équipements nécessaires
 Casque de réalité augmenté, banc, capteur, écouteur, écran + projecteur.
 
-
+### Expérience vécue
+L'installation est réservée à un groupe de six participants dû aux nombres restreint de casques de réalité augmentée. Notre groupe a pris légèrement du retard, donc notre temps dans la salle était limitée. Nous avons été conduit dans la salle et invité à mettre le casque de réalité augmentée et des écouteurs. Par réflexe, je me suis assise sur un banc face à l'écran.
 
 
 ### Références
