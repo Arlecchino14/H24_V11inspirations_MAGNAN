@@ -3,8 +3,11 @@ animation 3d
 interractivité ludique
 réalité mixte
 # Nouvelle technique apprise
-Une nouvelle utilisation de la kinect
-![](./media/CRESCENTIA_kinect_fonctionnement.png)
+Lors des présentations des projets, j'ai découvert une utilisation insoupçonnée de la kinect (Xbox, Microsoft). Je connaisais son utilisation pour les jeux de la Xbox, mais j'ignorais qu'elle permettait des possibilités presque infinies. <br>
+Plusieurs projets des troisième année, comme Rhizomatique, utilise la technologie de la kinect pour leurs installations. 
+
+
+ ![](.//media/CRESCENTIA_kinect_fontionnement.png)
 <h6 >https://www.gameblog.fr/tech/ed/news/comment-fonctionne-la-technologie-kinect-207283 </h6>
 
 # Ordre de préférence
