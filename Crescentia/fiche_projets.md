@@ -4,6 +4,7 @@ interractivité ludique
 réalité mixte
 # Nouvelle technique apprise
 Une nouvelle utilisation de la kinect
+![](./media/CRESCENTIA_kinect_fonctionnement.png)
 <h6 >https://www.gameblog.fr/tech/ed/news/comment-fonctionne-la-technologie-kinect-207283 </h6>
 
 # Ordre de préférence
