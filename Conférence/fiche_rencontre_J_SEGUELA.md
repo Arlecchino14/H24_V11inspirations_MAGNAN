@@ -18,5 +18,7 @@ Pour le second cas, la conférencière a présenté Translation Island (2023). L
 
 <h3>Appréciation</h3>
 La conférence fut très intéressante. Elle a permis de présenter le métier de registraire et tout le côté logistique de la mise en exposition d’œuvres. Ce fut une bonne présentation sans redondance qui même si elle n’allait pas dans tous les détails demeurait complète et intéressantes. Le partage  d’un Git Hub sur la conservation d’art numérique est un bon complément d’information. 
+
 ![](.//media/conference_translate_island.png)
+<h4>Translate Island - Photo provenant du instagram de l'artiste Rafael Lozano-Hemmer : https://www.instagram.com/lozanohemmer/p/Cz3ZvS1J8tT/</h4>
 
