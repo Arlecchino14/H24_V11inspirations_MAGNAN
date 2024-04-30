@@ -1,7 +1,5 @@
 # Cours incontournables
-animation 3d
-interractivité ludique
-réalité mixte
+Parmi les cours que propose la technique d’intégration multimédia, il a été possible d’en identifier des incontournables dans les projets des troisièmes années. Le premier est bien évidemment le cours de réalité mixte. Dans celui-ci, les étudiants ont appris à combiner divers médias afin de créer une expérience immersive. Dans les projets, nous avons pu constater comment les étudiants ont mis en pratique le cours de traitement audiovisuel où ils ont appris à manipuler l’audio en fonction d’interactions. Il y a aussi le cours de modélisation 3d pour la réalisation d’assets 3D et de figurines. 
 # Nouvelle technique apprise
 Lors des présentations des projets, j'ai découvert une utilisation insoupçonnée de la kinect (Xbox, Microsoft). Je connaisais son utilisation pour les jeux de la Xbox, mais j'ignorais qu'elle permettait des possibilités presque infinies. <br>
 Plusieurs projets des troisième année, comme Rhizomatique, utilise la technologie de la kinect pour leurs installations. 
@@ -21,8 +19,13 @@ Plusieurs projets des troisième année, comme Rhizomatique, utilise la technolo
 <h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html</h6>
 
 
-### Explication de l'oeuvre
-Ce dispositif interractif se situe dans le cyclo du grand studio du Collège Montmorency. 
+#### Explication de l'oeuvre
+Ce dispositif interactif se situe dans le cyclo du grand studio du Collège Montmorency. Une borne est placée devant où le public est invité à interagir avec. Pour ce faire, il lui suffit d’appuyer sur la toile, une zone verte se dessine autour de la main. Lorsque la personne laisse sa main dessus, une vidéo souvenir apparait sur le cyclo. Si la main est située plus à gauche, la vidéo est située sur le côté gauche. La même logique est utilisée pour le centre et le côté droit. <br>
+La partie interactive est possible grâce à une kinect qui détecte où est située la main sur la toile. Ensuite, les informations sont traitées par un ordinateurs et l’image est projetée sur le cyclo.
+
+#### Notes
+J’ai beaucoup aimé ce projet et l’idée de creuser dans les souvenirs. L’interactivité était simple, mais fonctionnait magnifiquement bien avec le concept. On se laissait allé dans les souvenirs qui se présentaient à nous. <br>
+L’élément négatif est qu’il n’y avait pas explicitement d’instruction sur quoi faire. On était timide  de poser nos mains sur la toile.  Heureusement, les membres du projet étaient très gentils et nous y ont encouragés.
 
 
 ## Présentation du projet Canevas Cosmique
