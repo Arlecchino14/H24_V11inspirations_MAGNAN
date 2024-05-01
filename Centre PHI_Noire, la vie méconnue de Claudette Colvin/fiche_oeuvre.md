@@ -6,8 +6,6 @@
 | *Noire* est une exposition temporaire présentée au Centre PHI entre le 7 février 2024 et le 28 avril 2024. Elle est aussi présentée dans plusieurs autres pays. L'installation a été réalisée par Stéphane Foenkinos et Pierre-Alain Giraud. Elle a été produite par Novaya (France), le Centre Pompidou (France) et Flash Forward Entertainment (Taïwan) en partenariat avec le Centre Pompidou (France). *Noire* reprend le récit du livre *Noire, la vie méconnue de Claudette Colvin d'après Tania De Montagne* d'Émilie Plateau (2019). La visite a eu lieu le 1 mars 2024  | ![](.//media/NOIRE_scene_bus_PHI.jpg) <br> Provient du site du [Centre PHI](https://phi.ca/fr/evenements/noire-claudette-colvin/)|
 
 
-visite 1er mars
-
 ### Description de l'oeuvre
 |Description | Support visuel | 
 | :---------------- | :------: |
