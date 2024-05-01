@@ -17,6 +17,8 @@ Plusieurs projets des troisième année, comme Rhizomatique, utilise la technolo
 <img src=".//media/crescentia_rhizomatique_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du site web Tim</h6>
 
+https://www.youtube.com/embed/mv1L1HDGEng?si=GjXMum5sSYOlSUSG
+
 **Créateurs/Créatrices : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic**
 
 <h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html</h6>
@@ -37,6 +39,7 @@ L’élément négatif est qu’il n’y avait pas explicitement d’instruction
 <img src=".//media/crescentia_canevas-cosmique_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du site web Tim</h6>
 
+https://youtu.be/uURWS3ziH4g
 **Créateurs/créatrices : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau.** 
 
 <h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html</h6>
@@ -46,6 +49,7 @@ L’élément négatif est qu’il n’y avait pas explicitement d’instruction
 >
 <img src=".//media/crescentia_effet-papillon_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du Git Hub de l'équipe</h6>
+https://youtube.com/shorts/QCNm2DKcN7A
 
 **Créateurs/Créatrices : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre**
 <h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html</h6>
@@ -58,6 +62,8 @@ L’élément négatif est qu’il n’y avait pas explicitement d’instruction
 <img src=".//media/crescentia_kigo_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du site web Tim</h6>
 
+https://youtu.be/204GSlnvK8s
+
 **Créateurs/Créatrices : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion**
 
 <h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html</h6>
@@ -67,6 +73,9 @@ L’élément négatif est qu’il n’y avait pas explicitement d’instruction
 >
 ><img src=".//media/crescentia_sonalux_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du site web Tim</h6>
+
+https://youtube.com/shorts/5AY-v9dmohU
+
 **Créateurs/Créatrices : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins**
 
 <h6>Le résumé provient du site web Tim : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html</h6>
