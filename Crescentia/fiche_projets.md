@@ -23,7 +23,8 @@ Ainsi, dans *Rhizomatique*, le public est invité à faire un voyage de les souv
 ##### Vidéo de l'oeuvre
 https://www.youtube.com/embed/mv1L1HDGEng?si=GjXMum5sSYOlSUSG
 
-
+##### Explication du positionnement 
+Je suis très fan du concept. Je le trouve sur papier très simple et efficace. C'est l'interactiver que j'ai préféré et que je trouve le mieux exécutéé
 
 **Créateurs/Créatrices : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic**
 
@@ -44,6 +45,10 @@ https://youtu.be/uURWS3ziH4g
 
 <img src=".//media/crescentia_canevas-cosmique_montmorency.jpg" width="300"/>
 <h6>Photo provenant de l'instagram du Collège Montmorency.</h6>
+
+##### Explication du positionnement 
+Je trouve le concept drôle et amusant. C'est un projet où plusieurs personnes peuvent participer. Il est bien exécuté.
+
 **Créateurs/créatrices : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau.** 
 
 
@@ -67,6 +72,9 @@ Pour ce projet, les étudiants ont opté littéralement pour la croissance. Dans
 ##### Vidéo de l'oeuvre
 https://youtube.com/shorts/QCNm2DKcN7A
 
+##### Explication du positionnement 
+C'est un projet que j'avais hâte de découvrir, mais j'ai été légèrement déçu. Je crois le concept était trop grand pour le temps de réalisation. Cependant, ce qui a été fait était très bien.
+
 **Créateurs/Créatrices : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre**
 
 
@@ -82,6 +90,9 @@ Kigo est un *endless runner game* (jeu de coureurs sans fin) interactif. À l'ai
 
 ##### Vidéo de l'oeuvre
 https://youtu.be/204GSlnvK8s
+
+##### Explication du positionnement 
+C'est un bon projet, mais j'aime moins les oeuvres où on doit beaucoup bouger. Par contre, j'adore le style artistique utilisé.
 
 **Créateurs/Créatrices : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion**
 
@@ -101,6 +112,9 @@ https://youtube.com/shorts/5AY-v9dmohU
 
 <img src=".//media/crescentia_sonalux_montmorency.jpg" width="300"/>
 <h6>Cette provient de l'instragram du Collège Montmorency</h6>
+
+##### Explication du positionnement 
+L'idée était bonne et bien réalisée. Toutefois, ce n'est pas une thématique qui me touche, donc en la comparant aux autres projets celui-ci m'intéressait moins.
 
 **Créateurs/Créatrices : Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins**
 
