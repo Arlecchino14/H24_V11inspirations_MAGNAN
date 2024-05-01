@@ -3,10 +3,14 @@ Le 10 avril 2024, nous avons eu la chance d’aller au Centre des sciences de Mo
 Le but du centre des sciences est de rendre accessible la science au grand public.
 [<img src=".//media/Centre-des-sciences_devanture.jpg" width="400"/>](.//media/Centre-des-sciences_devanture.jpg)
 
-### Voir l'invisible
-description
+
+|### Voir l'invisible | Support visuel | 
+| :---------------- | :------: |
+|description
 Voir l’invisible est un dispositif interactif qui invite le spectateur à expérimenter trois différents spectres électromagnétiques. Pour ce faire, le spectateur est invité à prendre place sur un marqueur au sol. Cela lui permet d’être à une distance raisonnable de trois boîtes rectangulaires. Ces dernières contiennent chacune un écran, une caméra et une lumière émettant sur un spectre électromagnétique différent. Elles sont identifiées et à droite se situe un panneau avec le titre, un cours paragraphe de présentation et un graphique avec les trois différentes fréquences : la lumière visible, l’infrarouge et l’ultraviolet.
-Composantes 
+Composantes |<img src=".//media/Centre-des-sciences_dispositif.jpg" width="400"/>](.//media/Centre-des-sciences_dispositif.jpg)|
+
+
 Le dispositif est simple. Chaque boîte contienne une caméra qui transfert l’image sur un écran. La lumière visible et infrarouge sont dissimulées dans leurs boîtes. Ce n’est pas le cas de l’ultraviolet car il en faut une plus grande quantité afin de voir le résultat sur l’écran.
 
 Expérience.
