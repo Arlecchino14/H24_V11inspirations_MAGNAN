@@ -9,14 +9,15 @@
 |Voir l'invisible | Support visuel | 
 | :---------------- | :------: |
 |Description
-Voir l’invisible est un dispositif interactif qui invite le spectateur à expérimenter trois différents spectres électromagnétiques. Pour ce faire, le spectateur est invité à prendre place sur un marqueur au sol. Cela lui permet d’être à une distance raisonnable de trois boîtes rectangulaires. Ces dernières contiennent chacune un écran, une caméra et une lumière émettant sur un spectre électromagnétique différent. Elles sont identifiées et à droite se situe un panneau avec le titre, un cours paragraphe de présentation et un graphique avec les trois différentes fréquences : la lumière visible, l’infrarouge et l’ultraviolet. | <img src=".//media/Centre-des-sciences_cartels.jpg" width="400"/>|
+Voir l’invisible est un dispositif interactif qui invite le spectateur à expérimenter trois différents spectres électromagnétiques. Pour ce faire, le spectateur est invité à prendre place sur un marqueur au sol. Cela lui permet d’être à une distance raisonnable de trois boîtes rectangulaires. Ces dernières contiennent chacune un écran, une caméra et une lumière émettant sur un spectre électromagnétique différent. Elles sont identifiées et à droite se situe un panneau avec le titre, un cours paragraphe de présentation et un graphique avec les trois différentes fréquences : la lumière visible, l’infrarouge et l’ultraviolet. | <img src=".//media/Centre-des-sciences_cartels.jpg" width="400"/> <h6>Panneau</h6>|
 |Le dispositif est simple. Chaque boîte contienne une caméra qui transfert l’image sur un écran. La lumière visible et infrarouge sont dissimulées dans leurs boîtes. Ce n’est pas le cas de l’ultraviolet car il en faut une plus grande quantité afin de voir le résultat sur l’écran.|<img src=".//media/Centre-des-sciences_dispositif.jpg" width="400"/> <h6>Voir l'invisible</h6>|
 |Ce dispositif est très simple et nécessite uniquement qu’on se positionne sur un marqueur. Malgré cela, l’expérience est ludique car elle est vécue en directe et agit comme des filtres d’un réseau social. L’explication est donnée efficacement grâce à un graphique ce qui rend accessible l’explication.|<img src=".//media/Centre-des-sciences_croquis.jpg" width="400"/> <h6>Croquis du dispositif</h6>|
 
-
-
 <br>
 
+#### Crédits 
+
+<img src=".//media/centre-des-sciences_credit_01.png" width="400"/>  <img src=".//media/centre-des-sciences_credit_02.png" width="400"/> 
 <br>
 <h3>Sources</h3>
 https://fr.wikipedia.org/wiki/Centre_des_sciences_de_Montr%C3%A9al
