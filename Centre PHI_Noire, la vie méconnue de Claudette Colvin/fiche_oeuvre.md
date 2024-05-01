@@ -14,10 +14,14 @@ visite 1er mars
 |  Cartel   | Inséré photo |
 | La ségrégation raciale aux États-Unis est une politique de séparation, selon des critères raciaux pour contourner l'effectivité de l'égalité des droits civiques des Afro-Américain-e-s garantis par la Constitution des États-Unis au lendemain de la guerre de Sécession en 1865. <br> <br> À travers les décennies, cette politique a été fortement contestée et quand on pense au combat pour les droits civiques, Rosa Parks est la figure qui nous vient en tête d'emblée. <br> <br> Claudette Colvin, prédecesseure de Parks. a tout permis, mais elle est celle qu'on a oubliée. À seulement 15 ans, cette jeune femme a refusé de céder sa place à une personne blanche dans un autobus public. <br> <br> À l'aide de la réalité augmentée et des lunettes HoloLens 2, la réalité et le virtuel se rencontrent pour mettre en lumière l'histoire de Claudette Colvin. Cette expérience documentaire est une oeuvre nécessaire et puissante qui se doit d'être vue pour comprendre le message inspirant de sa protagoniste. <br> <br> Un voyage dans le temps, dans l'Alabama ségrégationniste de 1955. <br> <br> Noire, la vie méconnue de Claudette Colvin est réalisée par *Stéphane Foenkinos* et *Pierre-Alain Giraud* d'après l'ouvrage de *Tania de Montaigne* Noire, la vie méconnue de Claudette Colvin. Installation produite par *Novaya* en partenariat avec le *Centre Pompidou*, coproduite avec *Flash Foward Entertainment* (Taïwan). <br> <br> France, Taïwan, 2023, 40min <br> français et anglais | ![](.//media/NOIRE_affiche_descriptif.jpg) |
 
-### Équipements nécessaires
-Pour cette instalaltion, le Centre PHI lui a dédié une salle afin d'accueillir les différents éléments qui la composent. On y trouve un décor minimaliste dans l'un des coin de la pièce. À l'opposé, il se trouve une toile où est projetée la narratrice du récit. Dans les autres coins on retrouve des séries de bancs. <br>
-Pour encore plus d'immersion, la lumière change en fonction du récit et il y a des éléments sensoriels (Des fans sont installées au plafond et s'allume pour recréer le vent présent lors de la pluie.) <br>
+|||
+| :---------------- | :------: |
+|Pour cette instalaltion, le Centre PHI lui a dédié une salle afin d'accueillir les différents éléments qui la composent. On y trouve un décor minimaliste dans l'un des coin de la pièce. À l'opposé, il se trouve une toile où est projetée la narratrice du récit. Dans les autres coins on retrouve des séries de bancs. <br>
+Pour encore plus d'immersion, la lumière change en fonction du récit et il y a des éléments sensoriels (Des fans sont installées au plafond et s'allume pour recréer le vent présent lors de la pluie.) |![](.//media/NOIRE_croquis.jpg)|
 Toutefois, les éléments les plus important pour l'installation sont le casque HoloLens 2 et le casque à conduction osseuse. Le casque à audition osseuse permet de transmettre le son par vibration. Il ne s'incère pas dans les oreilles, ce qui permet au porteur de pouvoir entendre son environnement sans que son écoute soit diminué. Le casque HoloLens 2 quant à lui est l'élément principal de l'installation. Une fois porter il nous permet de voir des hologrammes qui se superposent à l'environnement. 
+|![](.//media/NOIRE_casque.jpg)|
+### Équipements nécessaires
+
 
 
 ### Expérience vécue
