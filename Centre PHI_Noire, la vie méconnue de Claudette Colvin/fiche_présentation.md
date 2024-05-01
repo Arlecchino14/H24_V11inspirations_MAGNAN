@@ -49,4 +49,4 @@ Les oeuvres interactives nous permettent de découvrir de manière immersive et 
 Dans *Noire*, il s'agit de mettre en lumière une histoire oubliée. 
 Au centre des sciences, on apprend en s'amusant. 
 Jérémy Shaw nous a ammené à être en transe.
-Les projets de *Crescentia* exploraient tous la croissance.
+Les projets de *Crescentia* exploraient tous la croissance
