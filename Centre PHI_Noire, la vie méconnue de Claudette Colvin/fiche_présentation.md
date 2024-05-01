@@ -45,4 +45,8 @@ On se laisse bercer par ce que l'on voit comme pour l'exposition de Jeremy Shaw
 Histoire oubliée ressuscitée
 Réalité augmentée casque holoLens
 ### Ouverture
-Rendre justice à celles et ceux qui se sont battus, mais ont été oubliés par l'histoire
+Les oeuvres interactives nous permettent de découvrir de manière immersive et amusante ce que l'on veut transmettre. 
+Dans *Noire*, il s'agit de mettre en lumière une histoire oubliée. 
+Au centre des sciences, on apprend en s'amusant. 
+Jérémy Shaw nous a ammené à être en transe.
+Les projets de *Crescentia* exploraient tous la croissance.
