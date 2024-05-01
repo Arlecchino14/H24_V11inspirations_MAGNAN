@@ -12,12 +12,17 @@ Plusieurs projets des troisième année, comme Rhizomatique, utilise la technolo
 # Ordre de préférence
 
 ## Présentation du projet Rhizomatique 
-> Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. De nos jours, le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie. Dans notre projet, en appuyant sur la toile l'interacteur >naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. L’œuvre consiste à insiter l'interacteur à vouloir oublier le temps qui >passe et de retourner dans le passé d'une personne inconnu. L'oeuvre est divisé en deux espaces qui sont liés : la toile et les projections immersives. La toile va servir de communication entre l'interacteur et les souvenirs. La toile va aussi contrôler la clarté des souvenirs qui vont être représentés en particules. >Plus qu'il y aura de l'intéraction avec la toile plus les souvenirs vont être clairs. La toile, qui représente le cerveau, aura une projection qui représentera les fluides et l'allure rhizomatique du cerveau.
+> Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. De nos jours, le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie. Dans notre projet, en appuyant sur la toile l'interacteur >naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. L’œuvre consiste à insiter l'interacteur à vouloir oublier le temps qui passe et de retourner dans le passé d'une personne inconnu. L'oeuvre est divisé en deux espaces qui sont liés : la toile et les projections immersives. La toile va servir de communication entre l'interacteur et les souvenirs. La toile va aussi contrôler la clarté des souvenirs qui vont être représentés en particules. Plus qu'il y aura de l'intéraction avec la toile plus les souvenirs vont être clairs. La toile, qui représente le cerveau, aura une projection qui représentera les fluides et l'allure rhizomatique du cerveau.
 >
+Ainsi, dans *Rhizomatique*, le public est invité à faire un voyage de les souvenirs. Les interractions du public avec la toile permet de développer les souvenirs enfuient au coeur de la mémoire.
+
 <img src=".//media/crescentia_rhizomatique_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du site web Tim</h6>
 
+##### Vidéo de l'oeuvre
 https://www.youtube.com/embed/mv1L1HDGEng?si=GjXMum5sSYOlSUSG
+
+
 
 **Créateurs/Créatrices : Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic**
 
@@ -28,6 +33,9 @@ https://www.youtube.com/embed/mv1L1HDGEng?si=GjXMum5sSYOlSUSG
 ## Présentation du projet Canevas Cosmique
 >Vous vous retrouvez dans un laboratoire contenant une table, après un peu de recherche vous découvrez que sur l'écran au dessus de celle-ci se trouve une simulation d'un système solaire avec laquelle vous pouvez intéragir en déposant des statues déclancheant différents phénomènes. Vous êtes invité à expérimenter sur cette table, jusqu'à ce que les scientifiques reviennent du moins...
 >
+
+Dans canevas-cosmic le thème du projet se perçoit lorsque le public dépose les petites statuettes sur la table. Elles permettent d'ajouter des éléments perturbateurs à la scène spatiale qui est projetée au mur. La galaxie change au fil des interractions.
+
 <img src=".//media/crescentia_canevas-cosmique_croquis.png" width="300"/>
 <h6>Croquis du projet provenant du site web Tim</h6>
 
